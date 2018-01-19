@@ -1,3 +1,9 @@
+jquery-ui (1.12.1-1) balabit-os-6.0; urgency=low
+
+  * updated to v1.12.1
+
+ -- Balazs Benedek <balazs.benedek@balabit.com>  Fri, 19 Jan 2018 14:25:29 +0100
+
 jquery-ui (1.10.3-3) zorpos5.0; urgency=low
 
   * removed balabit-build

@@ -3,8 +3,8 @@ Maintainer: bbalazs <bbalazs@balabit.hu>
 Priority: extra
 Section: web
 Build-Depends: debhelper (>= 7)
-Standards-Version: 1.10.3
-Homepage: http://jqueryui.com/download/#!version=1.10.3&themeParams=none&components=1110000000001000100000000000000000
+Standards-Version: 1.12.1
+Homepage: http://jqueryui.com
 
 Package: jquery-ui
 Architecture: all
